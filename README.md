@@ -61,3 +61,7 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Patterns - RubyGems Guides](http://guides.rubygems.org/patterns/#semantic-versioning)
 - [Abusing Rails I18N to Set Page Titles - Brandon Keepers](http://opensoul.org/2012/11/05/abusing-rails-i18n-to-set-page-titles/)
 - [The Best of RailsConf 2015 | mattbrictson.com](https://mattbrictson.com/best-of-railsconf-2015)
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request on [GitHub](https://github.com/dankimio/tinkoff).
