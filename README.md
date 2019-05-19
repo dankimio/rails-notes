@@ -27,6 +27,8 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 
 - ⭐️ [Awesome Ruby](http://awesome-ruby.com/)
 - [A list of resources for learning Rails and relevant technologies](https://gist.github.com/andycandrea/75f5e97c25934fc9eb84)
+- [Matt Sears | Minitest Quick Reference](http://mattsears.com/articles/2011/12/10/minitest-quick-reference/)
+- [Ruby · Styleguide](https://github.com/styleguide/ruby)
 
 ## Tutorials
 
@@ -37,26 +39,23 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [guides/gem-development.md at master · radar/guides](https://github.com/radar/guides/blob/master/gem-development.md)
 - [Delightful lessons for dedicated programmers - Practicing Ruby](https://practicingruby.com/)
 - [Rails Best Practices - Rails Best Practices](http://rails-bestpractices.com/)
+- [Engineering Lunch Series Step-by-Step Guide to Building Your First Ruby Gem - Quick Left](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/)
+- [Zen Ruby: Procs and Lambdas: Closures in Ruby](http://www.zenruby.info/2016/05/procs-and-lambdas-closures-in-ruby.html)
 
 ## Books
 
 - ⭐️ [Learn Web Development with Rails: Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org)
 - [The Pragmatic Bookshelf | Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
 
+## Articles
+
+- [Stuff DHH Says](http://ericfarkas.com/posts/stuff-dhh-says/)
+- [Top 8 tools for Ruby on Rails code optimization and cleanup — Infinum](https://www.infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
+
 ## Bookmarks
 
-- [askr](http://www.askr.me/ruby)
-- [Stuff DHH Says](http://ericfarkas.com/posts/stuff-dhh-says/)
-- [Ruby · Styleguide](https://github.com/styleguide/ruby)
-- [Top 8 tools for Ruby on Rails code optimization and cleanup — Infinum](https://www.infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
 - [apiDoc - Inline Documentation for RESTful web APIs](http://apidocjs.com/)
-- [Rule #2 to validate belongs_to association for presence – Rails Guides](http://railsguides.net/belongs-to-association-and-validate-presence-with-nested-attributes/)
 - [The Best of RailsConf 2015 | mattbrictson.com](https://mattbrictson.com/best-of-railsconf-2015)
-- [Objects on Rails](http://objectsonrails.com/)
-- [Top 8 tools for Ruby on Rails code optimization and cleanup — Infinum](https://infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
-- [Engineering Lunch Series Step-by-Step Guide to Building Your First Ruby Gem - Quick Left](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/)
-- [Matt Sears | Minitest Quick Reference](http://mattsears.com/articles/2011/12/10/minitest-quick-reference/)
-- [Zen Ruby: Procs and Lambdas: Closures in Ruby](http://www.zenruby.info/2016/05/procs-and-lambdas-closures-in-ruby.html)
 - [Using ActiveSupport::Configurable to store config options](http://hashnuke.com/2012/06/04/using-activesupport-configurable-to-store-config-options.html)
 - [Dale Sande : Web fonts and Rails’ Asset Pipeline](https://coderwall.com/p/v5c8kq)
 - [Caching result sets and collection in Rails 5 | BigBinary Blog](http://blog.bigbinary.com/2016/02/02/activerecord-relation-cache-key.html)
