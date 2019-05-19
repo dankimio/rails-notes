@@ -1,4 +1,4 @@
-# rails-notes
+# Notes on Ruby on Rails
 
 **🚧 This is a work in progress 🚧**
 
