@@ -16,7 +16,7 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 
 ## Bookmarks
 
-- [https://github.com/kenny-hibino/stories](hibiken/stories: Medium clone built with Ruby on Rails)
+- [hibiken/stories: Medium clone built with Ruby on Rails](https://github.com/kenny-hibino/stories)
 - [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
 - [Practicing Ruby | Delightful lessons for dedicated programmers](https://practicingruby.com/)
 - [guides/gem-development.md at master · radar/guides](https://github.com/radar/guides/blob/master/gem-development.md)
