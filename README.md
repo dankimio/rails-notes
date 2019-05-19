@@ -38,6 +38,10 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Delightful lessons for dedicated programmers - Practicing Ruby](https://practicingruby.com/)
 - [Rails Best Practices - Rails Best Practices](http://rails-bestpractices.com/)
 
+## Books
+
+- [The Pragmatic Bookshelf | Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
+
 ## Bookmarks
 
 - [askr](http://www.askr.me/ruby)
@@ -47,13 +51,11 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [apiDoc - Inline Documentation for RESTful web APIs](http://apidocjs.com/)
 - [Rule #2 to validate belongs_to association for presence – Rails Guides](http://railsguides.net/belongs-to-association-and-validate-presence-with-nested-attributes/)
 - [The Best of RailsConf 2015 | mattbrictson.com](https://mattbrictson.com/best-of-railsconf-2015)
-- [RealTimeWeekly | Building a Realtime Quiz with PubNub](http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub/)
 - [Objects on Rails](http://objectsonrails.com/)
 - [Top 8 tools for Ruby on Rails code optimization and cleanup — Infinum](https://infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
 - [Engineering Lunch Series Step-by-Step Guide to Building Your First Ruby Gem - Quick Left](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/)
 - [Matt Sears | Minitest Quick Reference](http://mattsears.com/articles/2011/12/10/minitest-quick-reference/)
-- [The Pragmatic Bookshelf | Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
-- [Zen Ruby: Procs and Lambdas: Closures in Ruby](http://www.zenruby.info/2016/05/procs-and-lambdas-closures-in-ruby.html?utm_source=rubyweekly&utm_medium=email)
+- [Zen Ruby: Procs and Lambdas: Closures in Ruby](http://www.zenruby.info/2016/05/procs-and-lambdas-closures-in-ruby.html)
 - [Using ActiveSupport::Configurable to store config options](http://hashnuke.com/2012/06/04/using-activesupport-configurable-to-store-config-options.html)
 - [Dale Sande : Web fonts and Rails’ Asset Pipeline](https://coderwall.com/p/v5c8kq)
 - [Caching result sets and collection in Rails 5 | BigBinary Blog](http://blog.bigbinary.com/2016/02/02/activerecord-relation-cache-key.html)
@@ -66,6 +68,5 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Patterns - RubyGems Guides](http://guides.rubygems.org/patterns/#semantic-versioning)
 - [Module: ActiveSupport::JSON::Encoding — Documentation for rails/rails (master)](http://www.rubydoc.info/github/rails/rails/ActiveSupport/JSON/Encoding#use_standard_json_time_format-class_method)
 - [An introduction to Rails Demystified](https://launchschool.com/books/demystifying_rails/read/introduction)
-- [Abusing Rails I18N to Set Page Titles - Brandon Keepers](http://opensoul.org/2012/11/05/abusing-rails-i18n-to-set-page-titles/)
-- [Merge multi_fetch_fragments. by kaspth · Pull Request #18948 · rails/rails](https://github.com/rails/rails/pull/18948)
+- [Abusing Rails I18N to Set Page Titles - Brandon Keepers](http://opensoul.org/2012/11/05/abusing-rails-i18n-to-set-page-titles/))
 - [For a Good Strftime - Easy Skeezy Ruby Date/Time Formatting](http://www.foragoodstrftime.com/)
