@@ -40,6 +40,7 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 
 ## Articles / tutorials
 
+- ⭐️ [Evil Front Part 1: Modern Front-end in Rails — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/evil-front-part-1)
 - [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
 - [Learn Ruby with the Edgecase Ruby Koans](http://rubykoans.com)
 - [Practicing Ruby | Delightful lessons for dedicated programmers](https://practicingruby.com/)
@@ -61,6 +62,8 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Patterns - RubyGems Guides](http://guides.rubygems.org/patterns/#semantic-versioning)
 - [Abusing Rails I18N to Set Page Titles - Brandon Keepers](http://opensoul.org/2012/11/05/abusing-rails-i18n-to-set-page-titles/)
 - [The Best of RailsConf 2015 | mattbrictson.com](https://mattbrictson.com/best-of-railsconf-2015)
+- [A Beginner's Guide to Exceptions in Ruby - Honeybadger Developer Blog](https://www.honeybadger.io/blog/a-beginner-s-guide-to-exceptions-in-ruby/)
+- [How to start using Arrays in Rails with PostgreSQL | Arkency Blog](https://blog.arkency.com/2014/10/how-to-start-using-arrays-in-rails-with-postgresql/)
 
 ## Contributing
 
