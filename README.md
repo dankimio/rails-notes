@@ -2,7 +2,7 @@
 
 **🚧 This is a work in progress 🚧**
 
-Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrails.org).
+Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrails.org). May include some Ruby-related content.
 
 ## Books
 
