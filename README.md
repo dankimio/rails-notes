@@ -40,6 +40,7 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 
 ## Books
 
+- ⭐️ [Learn Web Development with Rails: Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org)
 - [The Pragmatic Bookshelf | Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
 
 ## Bookmarks
