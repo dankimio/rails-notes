@@ -23,24 +23,30 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [hibiken/stories: Medium clone built with Ruby on Rails](https://github.com/kenny-hibino/stories)
 - [jp7internet/rails-apz](https://github.com/jp7internet/rails-apz)
 
-## Bookmarks
+## Resources
+
+- ⭐️ [Awesome Ruby](http://awesome-ruby.com/)
+- [A list of resources for learning Rails and relevant technologies](https://gist.github.com/andycandrea/75f5e97c25934fc9eb84)
+
+## Tutorials
 
 - [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
+- [Learn Ruby with the Edgecase Ruby Koans](http://rubykoans.com)
 - [Practicing Ruby | Delightful lessons for dedicated programmers](https://practicingruby.com/)
+- [Ptico/from-rack-to-rails](https://github.com/Ptico/from-rack-to-rails)
 - [guides/gem-development.md at master · radar/guides](https://github.com/radar/guides/blob/master/gem-development.md)
+- [Delightful lessons for dedicated programmers - Practicing Ruby](https://practicingruby.com/)
+- [Rails Best Practices - Rails Best Practices](http://rails-bestpractices.com/)
+
+## Bookmarks
+
 - [askr](http://www.askr.me/ruby)
 - [Stuff DHH Says](http://ericfarkas.com/posts/stuff-dhh-says/)
-- [A list of resources for learning Rails and relevant technologies](https://gist.github.com/andycandrea/75f5e97c25934fc9eb84)
 - [Ruby · Styleguide](https://github.com/styleguide/ruby)
-- [Ptico/from-rack-to-rails](https://github.com/Ptico/from-rack-to-rails)
 - [Top 8 tools for Ruby on Rails code optimization and cleanup — Infinum](https://www.infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
-- [Awesome Ruby](http://awesome-ruby.com/)
-- [Delightful lessons for dedicated programmers - Practicing Ruby](https://practicingruby.com/)
 - [apiDoc - Inline Documentation for RESTful web APIs](http://apidocjs.com/)
 - [Rule #2 to validate belongs_to association for presence – Rails Guides](http://railsguides.net/belongs-to-association-and-validate-presence-with-nested-attributes/)
 - [The Best of RailsConf 2015 | mattbrictson.com](https://mattbrictson.com/best-of-railsconf-2015)
-- [Deploy Ruby On Rails on Ubuntu 14.04 Trusty Tahr - GoRails](https://gorails.com/deploy/ubuntu/14.04#capistrano)
-- [Rails Best Practices - Rails Best Practices](http://rails-bestpractices.com/)
 - [RealTimeWeekly | Building a Realtime Quiz with PubNub](http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub/)
 - [Objects on Rails](http://objectsonrails.com/)
 - [Top 8 tools for Ruby on Rails code optimization and cleanup — Infinum](https://infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
