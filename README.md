@@ -4,6 +4,16 @@
 
 Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrails.org).
 
+## Screencasts
+
+- ⭐️ [GoRails - Ruby on Rails screencasts for Web Developers](https://gorails.com/)
+- [RubyTapas – Short Screencasts of Gourmet Ruby](https://www.rubytapas.com)
+  - [Two screencasts, two ways to eradicate Ruby nil values – RubyTapas](https://www.rubytapas.com/2017/01/31/two-screencasts-two-ways-eradicate-ruby-nil-values)
+- [Learn Ruby on Rails | GoRails](https://gorails.com)
+  - [gorails-screencasts/gorails-24-liking-posts](https://github.com/gorails-screencasts/gorails-24-liking-posts)
+- [Ruby on Rails Screencasts for Web Developers | Drifting Ruby](https://www.driftingruby.com)
+- ⚠️ [Ruby on Rails screencasts - RailsCasts](http://railscasts.com) (outdated)
+
 ## Bookmarks
 
 - [https://github.com/kenny-hibino/stories](hibiken/stories: Medium clone built with Ruby on Rails)
@@ -16,14 +26,12 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Ruby · Styleguide](https://github.com/styleguide/ruby)
 - [#274 Remember Me & Reset Password - RailsCasts](http://railscasts.com/episodes/274-remember-me-reset-password)
 - [Ptico/from-rack-to-rails](https://github.com/Ptico/from-rack-to-rails)
-- [GoRails - Ruby on Rails screencasts for Web Developers](https://gorails.com/)
 - [Top 8 tools for Ruby on Rails code optimization and cleanup — Infinum](https://www.infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
 - [Awesome Ruby](http://awesome-ruby.com/)
 - [Delightful lessons for dedicated programmers - Practicing Ruby](https://practicingruby.com/)
 - [apiDoc - Inline Documentation for RESTful web APIs](http://apidocjs.com/)
 - [Rule #2 to validate belongs_to association for presence – Rails Guides](http://railsguides.net/belongs-to-association-and-validate-presence-with-nested-attributes/)
 - [jp7internet/rails-apz](https://github.com/jp7internet/rails-apz)
-- [Episodes | Drifting Ruby](https://www.driftingruby.com/episodes)
 - [The Best of RailsConf 2015 | mattbrictson.com](https://mattbrictson.com/best-of-railsconf-2015?utm_source=rubyweekly&utm_medium=email)
 - [Deploy Ruby On Rails on Ubuntu 14.04 Trusty Tahr - GoRails](https://gorails.com/deploy/ubuntu/14.04#capistrano)
 - [Rails Best Practices - Rails Best Practices](http://rails-bestpractices.com/)
@@ -41,7 +49,6 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Dale Sande : Web fonts and Rails’ Asset Pipeline](https://coderwall.com/p/v5c8kq)
 - [Caching result sets and collection in Rails 5 | BigBinary Blog](http://blog.bigbinary.com/2016/02/02/activerecord-relation-cache-key.html)
 - [Honey, I shrunk the internet! - Content Compression via Rack::Deflater](https://robots.thoughtbot.com/content-compression-with-rack-deflater)
-- [Two screencasts, two ways to eradicate Ruby nil values – RubyTapas](https://www.rubytapas.com/2017/01/31/two-screencasts-two-ways-eradicate-ruby-nil-values)
 - [RubyGems.org | your community gem host](https://rubygems.org/)
 - [Ruby on Rails Guides](http://guides.rubyonrails.org/)
 - [10.3. Multilingual Rails Application](http://www.xyzpub.com/en/ruby-on-rails/3.2/i18n_mehrsprachige_rails_applikation.html)
@@ -53,6 +60,5 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Module: ActiveSupport::JSON::Encoding — Documentation for rails/rails (master)](http://www.rubydoc.info/github/rails/rails/ActiveSupport/JSON/Encoding#use_standard_json_time_format-class_method)
 - [An introduction to Rails Demystified](https://launchschool.com/books/demystifying_rails/read/introduction)
 - [Abusing Rails I18N to Set Page Titles - Brandon Keepers](http://opensoul.org/2012/11/05/abusing-rails-i18n-to-set-page-titles/)
-- [gorails-screencasts/gorails-24-liking-posts](https://github.com/gorails-screencasts/gorails-24-liking-posts)
 - [Merge multi_fetch_fragments. by kaspth · Pull Request #18948 · rails/rails](https://github.com/rails/rails/pull/18948)
 - [For a Good Strftime - Easy Skeezy Ruby Date/Time Formatting](http://www.foragoodstrftime.com/)
