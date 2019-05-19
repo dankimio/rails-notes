@@ -7,16 +7,23 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 ## Screencasts
 
 - ⭐️ [GoRails - Ruby on Rails screencasts for Web Developers](https://gorails.com/)
+  - [Clean Javascript Code Using Data-Behavior On The Frontend | GoRails - GoRails](https://gorails.com/episodes/clean-javascript-with-data-behavior)
 - [RubyTapas – Short Screencasts of Gourmet Ruby](https://www.rubytapas.com)
   - [Two screencasts, two ways to eradicate Ruby nil values – RubyTapas](https://www.rubytapas.com/2017/01/31/two-screencasts-two-ways-eradicate-ruby-nil-values)
 - [Learn Ruby on Rails | GoRails](https://gorails.com)
   - [gorails-screencasts/gorails-24-liking-posts](https://github.com/gorails-screencasts/gorails-24-liking-posts)
 - [Ruby on Rails Screencasts for Web Developers | Drifting Ruby](https://www.driftingruby.com)
+  - [Not RJS and Turbolinks | Drifting Ruby](https://www.driftingruby.com/episodes/not-rjs-and-turbolinks)
 - ⚠️ [Ruby on Rails screencasts - RailsCasts](http://railscasts.com) (outdated)
+
+
+## Open-source apps / examples
+
+- [hibiken/stories: Medium clone built with Ruby on Rails](https://github.com/kenny-hibino/stories)
+- [jp7internet/rails-apz](https://github.com/jp7internet/rails-apz)
 
 ## Bookmarks
 
-- [hibiken/stories: Medium clone built with Ruby on Rails](https://github.com/kenny-hibino/stories)
 - [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
 - [Practicing Ruby | Delightful lessons for dedicated programmers](https://practicingruby.com/)
 - [guides/gem-development.md at master · radar/guides](https://github.com/radar/guides/blob/master/gem-development.md)
@@ -31,14 +38,10 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Delightful lessons for dedicated programmers - Practicing Ruby](https://practicingruby.com/)
 - [apiDoc - Inline Documentation for RESTful web APIs](http://apidocjs.com/)
 - [Rule #2 to validate belongs_to association for presence – Rails Guides](http://railsguides.net/belongs-to-association-and-validate-presence-with-nested-attributes/)
-- [jp7internet/rails-apz](https://github.com/jp7internet/rails-apz)
 - [The Best of RailsConf 2015 | mattbrictson.com](https://mattbrictson.com/best-of-railsconf-2015?utm_source=rubyweekly&utm_medium=email)
 - [Deploy Ruby On Rails on Ubuntu 14.04 Trusty Tahr - GoRails](https://gorails.com/deploy/ubuntu/14.04#capistrano)
 - [Rails Best Practices - Rails Best Practices](http://rails-bestpractices.com/)
-- [RailsClips/004_testing_endpoints](https://github.com/RailsClips/004_testing_endpoints)
-- [RealTimeWeekly | Building a Realtime Quiz with PubNub](http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub/?utm_source=rubyweekly&utm_medium=email)
-- [Clean Javascript Code Using Data-Behavior On The Frontend | GoRails - GoRails](https://gorails.com/episodes/clean-javascript-with-data-behavior?autoplay=1)
-- [Drifting Ruby](https://www.driftingruby.com/episodes/not-rjs-and-turbolinks#comments)
+- [RealTimeWeekly | Building a Realtime Quiz with PubNub](http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub/)
 - [Objects on Rails](http://objectsonrails.com/)
 - [Top 8 tools for Ruby on Rails code optimization and cleanup — Infinum](https://infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
 - [- [Engineering Lunch Series] Step-by-Step Guide to Building Your First Ruby Gem - Quick Left](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/)
