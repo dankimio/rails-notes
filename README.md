@@ -4,6 +4,12 @@
 
 Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrails.org).
 
+## Books
+
+- ⭐️ [Learn Web Development with Rails: Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org)
+- [The Pragmatic Bookshelf | Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
+- [An introduction to Rails Demystified](https://launchschool.com/books/demystifying_rails/read/introduction)
+
 ## Screencasts
 
 - ⭐️ [GoRails - Ruby on Rails screencasts for Web Developers](https://gorails.com/)
@@ -31,12 +37,6 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Ruby · Styleguide](https://github.com/styleguide/ruby)
 - [Ruby Weekly: A Free, Weekly Email Newsletter](http://rubyweekly.com/)
 - [For a Good Strftime - Easy Skeezy Ruby Date/Time Formatting](http://www.foragoodstrftime.com/)
-
-## Books
-
-- ⭐️ [Learn Web Development with Rails: Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org)
-- [The Pragmatic Bookshelf | Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
-- [An introduction to Rails Demystified](https://launchschool.com/books/demystifying_rails/read/introduction)
 
 ## Articles / tutorials
 
