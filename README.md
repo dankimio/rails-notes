@@ -57,7 +57,6 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [Caching result sets and collection in Rails 5 | BigBinary Blog](http://blog.bigbinary.com/2016/02/02/activerecord-relation-cache-key.html)
 - [Honey, I shrunk the internet! - Content Compression via Rack::Deflater](https://robots.thoughtbot.com/content-compression-with-rack-deflater)
 - [10.3. Multilingual Rails Application](http://www.xyzpub.com/en/ruby-on-rails/3.2/i18n_mehrsprachige_rails_applikation.html)
-- [Importing and Exporting Heroku Postgres Databases with PG Backups | Heroku Dev Center](https://devcenter.heroku.com/articles/heroku-postgres-import-export)
 - [Search and filter Rails models without bloating your controller - Justin Weiss](http://www.justinweiss.com/articles/search-and-filter-rails-models-without-bloating-your-controller/)
 - [Patterns - RubyGems Guides](http://guides.rubygems.org/patterns/#semantic-versioning)
 - [Abusing Rails I18N to Set Page Titles - Brandon Keepers](http://opensoul.org/2012/11/05/abusing-rails-i18n-to-set-page-titles/)
