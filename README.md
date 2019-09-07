@@ -68,4 +68,4 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 
 ## Contributing
 
-Contributions are welcome! Please submit a pull request on [GitHub](https://github.com/dankimio/tinkoff).
+Contributions are welcome! Please submit a pull request.
