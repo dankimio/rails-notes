@@ -1,8 +1,6 @@
-# Notes on Ruby on Rails
+# Notes on Ruby and Ruby on Rails
 
-**🚧 This is a work in progress 🚧**
-
-Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrails.org). May include some Ruby-related content.
+Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrails.org).
 
 ## Books
 
