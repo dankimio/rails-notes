@@ -1,6 +1,6 @@
 # Notes on Ruby and Ruby on Rails
 
-Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrails.org).
+Useful learning resources, bookmarks and notes on [Ruby on Rails](https://rubyonrails.org).
 
 ## Books
 
