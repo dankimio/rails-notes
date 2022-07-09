@@ -63,6 +63,7 @@ Useful learning resources, bookmarks, notes on [Ruby on Rails](https://rubyonrai
 - [A Beginner's Guide to Exceptions in Ruby - Honeybadger Developer Blog](https://www.honeybadger.io/blog/a-beginner-s-guide-to-exceptions-in-ruby/)
 - [How to start using Arrays in Rails with PostgreSQL | Arkency Blog](https://blog.arkency.com/2014/10/how-to-start-using-arrays-in-rails-with-postgresql/)
 - [Don't Inline-Rescue in Ruby](https://thoughtbot.com/blog/don-t-inline-rescue-in-ruby)
+- [UUID Primary Key in Rails 6 with PostgreSQL and ActiveRecord](https://pawelurbanek.com/uuid-order-rails)
 
 ## Contributing
 
